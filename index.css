@@ -1,0 +1,51 @@
+.banner {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*cnt2h1*_ga*MTQ2MTU3MTQzNi4xNzA2MTcxNzg2*_ga_3LRZM6TM9L*MTcwNzk4NTE3NS4yMy4xLjE3MDc5ODY4MzEuNDkuMC4w);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 100px;
+    color: khaki;
+    
+
+}
+
+div {
+    display: block;
+}
+
+#brushes {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.price {
+    text-align: center;
+    color: blue;
+}
+
+#frames {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+#paint {
+    background-color: lightgoldenrodyellow;
+      text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
